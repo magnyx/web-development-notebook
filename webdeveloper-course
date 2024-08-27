@@ -12,3 +12,8 @@ Don't skip anything.
 Introduction: Web developers build and maintain websites.
 Clients usually are trying to get their product or service onto the wbe. The work is usually project-focused and involves collaborating with a team to coordinate the client's needs into the end product. The work could involve front-end, back-end ou full-stack web development.
 
+Front end development: the stuff you see on the website in your browser, including the presentation of content ans user interface elements. HTML, CSS, Javascript etc.
+Back end development: the guts of the application, which live on the server. Stores and serves program data to ensure that the front end has what it needs. Can become complicated when a website has millions of users. Java, Python, Roby and Javascript to work with data.
+Full-stack developers are comfortable workinf with both the front and back ends. This is the focus of The Odin Project, to cover all aspects of web development.
+
+
