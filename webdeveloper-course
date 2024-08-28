@@ -16,4 +16,13 @@ Front end development: the stuff you see on the website in your browser, includi
 Back end development: the guts of the application, which live on the server. Stores and serves program data to ensure that the front end has what it needs. Can become complicated when a website has millions of users. Java, Python, Roby and Javascript to work with data.
 Full-stack developers are comfortable workinf with both the front and back ends. This is the focus of The Odin Project, to cover all aspects of web development.
 
+Tools to use regularly: Computer, Google, Text Editor, Command Line Interface (CLI), Stack Overflow, Git, GitHub
 
+Reading recommendations: "Why Learning Code is so damn hard" (https://web.archive.org/web/20230630111131/https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/); Wikipedia's take on Web design (https://en.wikipedia.org/wiki/Web_design); and the blog post from Udacity on front-end, back-end and full stack developers (https://www.udacity.com/blog/2020/12/front-end-vs-back-end-vs-full-stack-web-developers.html).
+From these, the most important observations I've found were: 
+ 1. Learn the basic, and build. Once facing challenges upon, try to collab. Also, always learn from other people's codes on your own. Embrace challenges and don't give up.
+ 2. Creating a website involves: web designer, web development. But it can (and should) also involve a Graphic designer (logos, layouts, buttons), Internet marketing specialist, SEO writer, Internet copywriter, and User experience (UX) designer. These are all important in the making of an effective website!
+
+Reading suggestions I caught were:
+Hacker news (https://web.archive.org/web/20230630111115/https://news.ycombinator.com/)
+[Book] Homepage usability: 50 websites deconstructed (https://archive.org/details/homepageusabilit00jako_0/mode/2up). According to wikipedia, the authors of this book sustain that the homepage of a website is the most important page (2002). Other web developers contest, arguing that most people go straight to the page they intend to through searching engines. But the book looks really cool still!
