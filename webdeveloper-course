@@ -22,7 +22,10 @@ Reading recommendations: "Why Learning Code is so damn hard" (https://web.archiv
 From these, the most important observations I've found were: 
  1. Learn the basic, and build. Once facing challenges upon, try to collab. Also, always learn from other people's codes on your own. Embrace challenges and don't give up.
  2. Creating a website involves: web designer, web development. But it can (and should) also involve a Graphic designer (logos, layouts, buttons), Internet marketing specialist, SEO writer, Internet copywriter, and User experience (UX) designer. These are all important in the making of an effective website!
+ 3. For front-end web development, must learn HTML, CSS and Javascript. Also, must be proficient in web frameworks and libraries like Bootstrap, Foundation, AngularJS, ReactJS, and EmberJS. Node.js is also a powerful tool and enhances workflow when using frameworks like ReactJS and AngularJS. Then, must also acquire experience with Ajax (Asynchronous JavaScript and XML). Also, the front-end developer must have a keen eye to detail and creativity.
+
 
 Reading suggestions I caught were:
 Hacker news (https://web.archive.org/web/20230630111115/https://news.ycombinator.com/)
 [Book] Homepage usability: 50 websites deconstructed (https://archive.org/details/homepageusabilit00jako_0/mode/2up). According to wikipedia, the authors of this book sustain that the homepage of a website is the most important page (2002). Other web developers contest, arguing that most people go straight to the page they intend to through searching engines. But the book looks really cool still!
+
