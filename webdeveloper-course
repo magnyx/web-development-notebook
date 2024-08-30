@@ -18,12 +18,15 @@ Full-stack developers are comfortable workinf with both the front and back ends.
 
 Tools to use regularly: Computer, Google, Text Editor, Command Line Interface (CLI), Stack Overflow, Git, GitHub
 
-Reading recommendations: "Why Learning Code is so damn hard" (https://web.archive.org/web/20230630111131/https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/); Wikipedia's take on Web design (https://en.wikipedia.org/wiki/Web_design); and the blog post from Udacity on front-end, back-end and full stack developers (https://www.udacity.com/blog/2020/12/front-end-vs-back-end-vs-full-stack-web-developers.html).
+Reading assignment: "Why Learning Code is so damn hard" (https://web.archive.org/web/20230630111131/https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/); Wikipedia's take on Web design (https://en.wikipedia.org/wiki/Web_design); and the blog post from Udacity on front-end, back-end and full stack developers (https://www.udacity.com/blog/2020/12/front-end-vs-back-end-vs-full-stack-web-developers.html).
 From these, the most important observations I've found were: 
  1. Learn the basic, and build. Once facing challenges upon, try to collab. Also, always learn from other people's codes on your own. Embrace challenges and don't give up.
  2. Creating a website involves: web designer, web development. But it can (and should) also involve a Graphic designer (logos, layouts, buttons), Internet marketing specialist, SEO writer, Internet copywriter, and User experience (UX) designer. These are all important in the making of an effective website!
  3. For front-end web development, must learn HTML, CSS and Javascript. Also, must be proficient in web frameworks and libraries like Bootstrap, Foundation, AngularJS, ReactJS, and EmberJS. Node.js is also a powerful tool and enhances workflow when using frameworks like ReactJS and AngularJS. Then, must also acquire experience with Ajax (Asynchronous JavaScript and XML). Also, the front-end developer must have a keen eye to detail and creativity.
-
+3.1 Back-end development of a website consists of a server, an application, and a database. To make the server, application, and database communicate, we use languages like Node.js, Go, PHP, Ruby, Python, Java, and .NET. Can also use tools like MySQL, Oracle, and SQL Server to find, save, or change data and serve it back to the user through front-end code. 
+Python is favored for its readability and simplicity -> repid development. Java is renowned for its performance and scalability -> ideal for large-scale enterprise applications.
+Jobs for back-end developers often require experience with PHP frameworks like Laravel, Symfony, and CakePHP; version control software like Git; and using Linux as development and deployment system. Knowledge on these tools allow back-end developers to create robust, scalable, secure web applications.
+3.2 Full stack developers are a jack-of-all-trades. The term was popularized by Facebook's engineering department. They're a full package.
 
 Reading suggestions I caught were:
 Hacker news (https://web.archive.org/web/20230630111115/https://news.ycombinator.com/)
