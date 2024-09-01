@@ -38,3 +38,24 @@ O'Reilly books: http://oreilly.com/css-html/index.html
 
 Learning to Learn
 The brain has two "core" modes: the focus mode and the relaxed mode. Navigate through "focus" and "relaxed" mode in a fluid way so you can learn!
+
+  How to Ask for help
+When asking a question, always provide as much information as possible:
+1. Your code
+2. The error message
+3. Terminal command
+4. Server output
+5. Other relevant details
+6. Ask specifically about the problem, not the solution. 
+  E.g. Instead of "How do I complete Step 5 of Rock Paper Scissors Assignment?", ask "Hey, I’m trying to return a string that displays the winner in Rock Paper Scissors, but I’m getting a syntax error on line 12. How can I fix this? Here’s my code.”
+PS: When it's needed to provide a code that is too long, use CodePen (HTML/CSS/Javascript), Replit (Javascript/Ruby), CodeSandbox(Webpack/React), Pastebin (for error messages or server output).
+PS1: If there's a question before you're written any code, provide your pseudo code. 
+PS2: After succesfully solving a difficult problem with help, try writing about it on the README.md file of the project yo'ure working on
+PS3: Still have doubts? Read https://www.theodinproject.com/guides/community/how_to_ask
+PS4: Avoid de XY Problem (https://xyproblem.info/)
+  The XY Problem is asking about your attempted solution rather than your actual problem. 
+  -  User want to do X.
+  -  Doesn't know, but thinks they can do it through Y
+  -  User asks about Y
+  -  Confusion.
+  The solution is to always include information about a broader picture along with the attempted solution.
