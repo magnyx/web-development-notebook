@@ -11,7 +11,7 @@ Foundations Course:
 Introduction: The Odin Project is an open-source community dedicated to providing the best information sources to take you from zero to (hero) full-stack developer.
 Don't skip anything.
 
-  Web development
+##  Web development
 Introduction: Web developers build and maintain websites.
 Clients usually are trying to get their product or service onto the wbe. The work is usually project-focused and involves collaborating with a team to coordinate the client's needs into the end product. The work could involve front-end, back-end ou full-stack web development.
 
@@ -39,7 +39,7 @@ Bulletproof Web Design: http://www.simplebits.com/publications/bulletproof/
 A Book Apart Series: http://www.abookapart.com/
 O'Reilly books: http://oreilly.com/css-html/index.html
 
-Learning to Learn
+## Learning to Learn
 The brain has two "core" modes: the focus mode and the relaxed mode. Navigate through "focus" and "relaxed" mode in a fluid way so you can learn!
 
   How to Ask for help
@@ -77,3 +77,38 @@ In chat rooms, code can be displayed differently from normal sentences by using 
     '''js or JavaScript
     Multiple lines of code
     '''
+
+## What is a Computer
+
+A computer is an electronic device that manipulates information, or data. It has the ability to store, retrieve, and process data.
+
+Hardware is any physical parts of the computer, for example the mouse and headset. It also includes the internal parts, such as HD, SSD, motherboard etc.
+Software is any set of instructions that tells hardware what to do and how to do it. Without software, the hardware is void and doesn't work.
+Every computer needs both hardware and software to function.
+
+Types of computers:
+Personal computer: typically composed by computer case, monitor, keyboard and mouse.
+Laptop computer: typically composed by a one-serves-all case, which is the whole computer itself.
+Tablet computer: even samller version on an entire computer in one set, always has touch-sensitive screen function.
+Server: it's a computer that serves up information to other computers on a network. For example, things that you find on the Internet are typically sotres in a server. Many businesses also use local file servers to store and share files internally.
+
+A new perspective: many of today's electronics are basically speccialized computers, though we don't always think of them that way. It's the case of:
+  Smartphones: browse the Internet and play games;
+  Wearables (fitness trackers and smartwatches): designed to be worn, specific functions;
+  Game consoles: playing video games, usually on a TV;
+  TVs: many TVs nowadays include applications which connects them to the Internet.
+
+PCs(1981) and Macs(1984)
+The war is endless
+
+Parts of a computer:
+Computer case (a "tower case" is a type of computer case): is the metal and plastic box that contains the main components of the computer, including the motherboard, central processing unit (CPU), and power supply. The front of the case usually has an On/Off button and one or more optical drives.
+Monitor: works with a video card, located inside the computer case, to display images and text on the screen. Nowadays, mostly LCD (liquid crystal display) or LED (light-emitting diode) displays.Older monitors use CRT (cathode ray tube) displays.
+Keyboard: wireless or ergonomic
+Mouse: It is commonly known as a pointing device and allows you to point, click and move objectts on screen. There are two types, the optical (detects movement using a optical sensor at the bottom) and the mechanical mouse (uses a rolling ball to detect movement and requires regular cleaning to work properly).  There are some mouse alternatives such as a trackball and a touchpad.
+Power cord
+
+Peripherals:
+Printers: used to print documents, photos etc. There are many types, such as inkjet, laser and photo printers. Also, all-in-one-printers, which can also scan and copy documents.
+
+PS of Reference: Most notes on this subject come from the Goodwill Community Foundation (https://edu.gcfglobal.org)
