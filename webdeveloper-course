@@ -59,3 +59,17 @@ PS4: Avoid de XY Problem (https://xyproblem.info/)
   -  User asks about Y
   -  Confusion.
   The solution is to always include information about a broader picture along with the attempted solution.
+
+  Formatting questions
+If having trouble on the command line, make sure to include both your input and the error message.
+In chat rooms, code can be displayed differently from normal sentences by using backsticks (''), so:
+  For a single line of code: one backstick before and after the code. 
+    'Your code'
+  For multiple lines of code: three backsticks on a separate line above and below the code:
+    '''
+    Code
+    '''
+  You can also use code highlighting to add color to you multi-line code by specifying the language:
+    '''js or JavaScript
+    Multiple lines of code
+    '''
