@@ -56,6 +56,7 @@ PS1: If there's a question before you're written any code, provide your pseudo c
 PS2: After succesfully solving a difficult problem with help, try writing about it on the README.md file of the project yo'ure working on
 PS3: Still have doubts? Read https://www.theodinproject.com/guides/community/how_to_ask
 PS4: Avoid de XY Problem (https://xyproblem.info/)
+
   The XY Problem is asking about your attempted solution rather than your actual problem. 
   -  User want to do X.
   -  Doesn't know, but thinks they can do it through Y
