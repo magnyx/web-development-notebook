@@ -110,5 +110,7 @@ Power cord
 
 Peripherals:
 Printers: used to print documents, photos etc. There are many types, such as inkjet, laser and photo printers. Also, all-in-one-printers, which can also scan and copy documents.
+Scanner: copy a physical image or document and save to your computer as a digital (computer-readable) image. The scanner can come included and as part of a all-in-one printer or can be bought as a separate flatbed or handheld scanner.
+Speaker/headphones: these are output devices, which means they send information from the computer to the user - 
 
-PS of Reference: Most notes on this subject come from the Goodwill Community Foundation (https://edu.gcfglobal.org)
+Reference: Most notes came from the Goodwill Community Foundation (https://edu.gcfglobal.org)
