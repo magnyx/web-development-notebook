@@ -111,6 +111,17 @@ Power cord
 Peripherals:
 Printers: used to print documents, photos etc. There are many types, such as inkjet, laser and photo printers. Also, all-in-one-printers, which can also scan and copy documents.
 Scanner: copy a physical image or document and save to your computer as a digital (computer-readable) image. The scanner can come included and as part of a all-in-one printer or can be bought as a separate flatbed or handheld scanner.
-Speaker/headphones: these are output devices, which means they send information from the computer to the user - 
+Speaker/headphones: these are output devices, which means they send information from the computer to the user through sounds. Can be used through either audio port or USB ports.
+Microphone: Input device of sound. You can connect a microphone to record sound or talk to someone eles over the Internet.
+Web cameras: Input device of videos and pictures. It can also trasmit video over the Internet in real time, which allows for video chat and video conferencing with someone else.
+Game controllers and joysticks: used to control computer games. These can easily be replaced by keyboard and mouse.
+Digital cameras, Mobile phones, MP3 players, tablet computers, and other devices: every electronic device that allows a USB port are likely to connect to the computer and share data.
+
+Inside the computer:
+Motherboard: it's the main circuit board. contains CPU (Central Processing Unit Processor), heatsink (draws away the heat from the processor), RAM (Random access memory) (short term memory that the computer uses when performing calculations; doesn't store data)
+Hard drive(long-term storage), many PCs use a magnetic platteer to store data but many newer users use a Solid-state drive (faster, more durable, but more expensive)
+On mini desktops computers, the motherboard has expansions slots that allow the PC to upgrade by adding expansion cards. You can addd a video card to get better graphics performance or you can add a wireless card to connect to your wireless home network. Most laptops don't have expansion slots.
+Power supply unit: responsible to connecting and directing the power to all o the PC's components and make sure it runs smoothly. Laptops also contain a built-in battery for that purpose.
+(Watch video to see the images of everything in https://www.youtube.com/watch?v=HB4I2CgkcCo)
 
 Reference: Most notes came from the Goodwill Community Foundation (https://edu.gcfglobal.org)
