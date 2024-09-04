@@ -124,4 +124,27 @@ On mini desktops computers, the motherboard has expansions slots that allow the 
 Power supply unit: responsible to connecting and directing the power to all o the PC's components and make sure it runs smoothly. Laptops also contain a built-in battery for that purpose.
 (Watch video to see the images of everything in https://www.youtube.com/watch?v=HB4I2CgkcCo)
 
+Operating system
+It's the most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software and hardware. Allows you to communicate with the computer through translation of commands into machine language.
+The OS coordinates CPU, memory and storage while programs are running on the same time.
+  Types of OS: they usually come pre-loaded on the computer when it's bought. The three most common OS are Microsoft Windows, macOS and Linux.  Modern operating systems use a graphical user interface (GUI, pronounced gooey). Each OS had different GUI, but the principles are the same.
+    Microsoft Windows: created in the mid-1980s. Most recent versions are Windows10(2015), Windows8(2012), Windows7(1009), Windows Vista(2007)
+    macOS: Mojave(2018), High Sierra(2017), Sierra(2016)
+    Linux: a family of open-source OS
+
+Applications, or Apps
+It's a software that isn't OS and that allows you to perform specific tasks.
+Some types of desktop applications: word processors, web browsers, media players, and games.
+
+Internet
+Types of connection to the internet:
+  Dial-up: connects to your phone line, usually slower
+  DSL and Cable: better options. DSL plugs into the phone line and Cable uses a cable TV connection. They're known as broadband internet connections, because they offer a lot more speed.
+  Fiber: the fastest nowadays.
+  Cellular, or Satellite: sold in a few different lengths, such as 4G, LTE and 5G. They're wireless connections often used by smartphones.
+All of these are offered by an Internet Service Provider (ISP).
+Modem: Dial-up > telephone modem; DSL > DSL modem ; cable > cable modem ; satellite > satellite adapter.
+Router: is a hardware device that allows you to connect several computers and other devices to a single internet connection, also known as home network. Many of them are wireless, allowing to create a home wireless network (Wi-Fi network).
+A router is not necessary, you can plug your ocmputer to your modem through a Ethernet cable.
+
 Reference: Most notes came from the Goodwill Community Foundation (https://edu.gcfglobal.org)
