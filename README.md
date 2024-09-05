@@ -136,7 +136,16 @@ Applications, or Apps
 It's a software that isn't OS and that allows you to perform specific tasks.
 Some types of desktop applications: word processors, web browsers, media players, and games.
 
-Internet
+Reference: Most notes came from the Goodwill Community Foundation (https://edu.gcfglobal.org)
+
+## Internet
+
+The Internet is not a fuzzy cloud, it is a wire. Actually buried underground. It  can be accessed by cables, satelittes and wi-fi, but it is acutally a wire. (https://www.youtube.com/watch?v=7_LPdttKXPc)
+There are lots of servers connected to it, and each one has a unique internet protocol adress (IP).
+Your computer at home is not a server, because it is not connected directly to the Internet. Our computers are called client, because they are connecte dindirectdly to the Internet through a Internet Service Provider (ISP).
+
+Information sent through the Internet is broken down in smaller pieces and they gather up recreating the picture on the receiver's end.
+
 Types of connection to the internet:
   Dial-up: connects to your phone line, usually slower
   DSL and Cable: better options. DSL plugs into the phone line and Cable uses a cable TV connection. They're known as broadband internet connections, because they offer a lot more speed.
@@ -145,7 +154,8 @@ Types of connection to the internet:
 All of these are offered by an Internet Service Provider (ISP).
 Modem: Dial-up > telephone modem; DSL > DSL modem ; cable > cable modem ; satellite > satellite adapter.
 Router: is a hardware device that allows you to connect several computers and other devices to a single internet connection, also known as home network. Many of them are wireless, allowing to create a home wireless network (Wi-Fi network).
-A router is not necessary, you can plug your ocmputer to your modem through a Ethernet cable.
+A router is not necessary, you can plug your computer to your modem through a Ethernet cable.
+
 
 Websites:
 Once you are conencted to the Internet, you can access websites using a kind of application called web browser. 
@@ -157,4 +167,18 @@ If you're looking for specific information but don't have a URL, or an address, 
 
 Web app, or web applications: These are apps that run in the cloud and do nor need to be installed on your computer. Examples: Facebook, Pixlr, Google Docs.
 
-Reference: Most notes came from the Goodwill Community Foundation (https://edu.gcfglobal.org)
+Passwords
+Never use personal information
+Use a longer password, at least 6 characters. Include numbers, symbols, uppercase and lowercase letters.
+Don't use the same password for each account
+Avoid using words that can be found in the dictionary
+Random passwords are the strongest. Try using a password generator.
+
+
+## Source Codes
+
+Almost every piece of computer software is created using source code, which is the technical blueprint that tells a program how to function. 
+Open source vs. closed source software
+Open source codes are available for anyone to see, and usually are free. Because they are accessibble to anyone, lots of people work on it to solve bugs fast, but there's usually little to no official technical support.
+In closed source codes, the public is not given access to the source codee, so they can't see it or modify it. Usually, these are paid software and because of that, there's plenty official technical support. Still, the users need to wait for the software's company to solve any bugs, without being able to help.
+
