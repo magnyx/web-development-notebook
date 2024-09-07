@@ -159,13 +159,23 @@ A router is not necessary, you can plug your computer to your modem through a Et
 
 Websites:
 Once you are conencted to the Internet, you can access websites using a kind of application called web browser. 
-A website is a collection of relaetd text, images, and other resources. Websites can resemble other form of media (newspaper, TV programs etc) or they can be interactive in a way that's unique to computers. A website's purpose can be anything, newspapers or a forum, os educational, anything.
+A website is a collection of related text, images, and other resources. Websites can resemble other form of media (newspaper, TV programs etc) or they can be interactive in a way that's unique to computers. A website's purpose can be anything, newspapers or a forum, os educational, anything.
 The web browser allows you to connect to and view websites. It isn't the Internet itself, but it displays pages on the Internet. Each website has a unique address. By typing this address into your web browser, you can connect to that website and your web browser will display it.
 Websites often have links to ther sites, also called hyperlinks.
 Each website has a unique address, called URL(Uniform Resource Locator).
 If you're looking for specific information but don't have a URL, or an address, you can use a search engine to help. (Google, Yahoo, Bing etc).
 
 Web app, or web applications: These are apps that run in the cloud and do nor need to be installed on your computer. Examples: Facebook, Pixlr, Google Docs.
+
+Web page: is a simple document displayable by a browser. They are also called just "pages".
+
+Web server: a computer that hosts a websiet on the Internet.
+
+(Website: a collection of web pages which are grouped together and usually connected together in vairous ways. Also called "site".)
+
+Serch engine: a website hosted on the Internet that allows you to search for other websites online.
+
+Web browser: it's a software that allows you to browse through the Internet. Examples: Firefox, Google Chrome, Opera, Microsoft Edge or Apple Safari.
 
 Passwords
 Never use personal information
