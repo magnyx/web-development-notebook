@@ -192,3 +192,11 @@ Open source vs. closed source software
 Open source codes are available for anyone to see, and usually are free. Because they are accessibble to anyone, lots of people work on it to solve bugs fast, but there's usually little to no official technical support.
 In closed source codes, the public is not given access to the source codee, so they can't see it or modify it. Usually, these are paid software and because of that, there's plenty official technical support. Still, the users need to wait for the software's company to solve any bugs, without being able to help.
 
+## Software for Web development
+
+Eiter macOS or Linux.
+We are all set up with XUbuntu 24.04 as the instructions directed!
+Now, installing VSCode (Visual Studio Code).
+
+Soo many Terminal commands!!!!
+
