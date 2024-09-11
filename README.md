@@ -187,10 +187,10 @@ Random passwords are the strongest. Try using a password generator.
 
 ## Source Codes
 
-Almost every piece of computer software is created using source code, which is the technical blueprint that tells a program how to function. 
-Open source vs. closed source software
-Open source codes are available for anyone to see, and usually are free. Because they are accessibble to anyone, lots of people work on it to solve bugs fast, but there's usually little to no official technical support.
-In closed source codes, the public is not given access to the source codee, so they can't see it or modify it. Usually, these are paid software and because of that, there's plenty official technical support. Still, the users need to wait for the software's company to solve any bugs, without being able to help.
+Almost every piece of computer software is created using source code, the technical blueprint that tells a program how to function. 
+Open-source vs. closed-source software
+Open-source codes are available for anyone to see, and these are usually free. Because they are accessible to anyone, lots of people work on it to solve bugs fast, but there's usually little to no official technical support.
+In closed source codes, the public is not given access to the source code, so they can't see it or modify it. Usually, these are paid software and because of that, there's plenty of official technical support. Still, the users need to wait for the software's company to solve any bugs, without being able to help.
 
 ## Software for Web development
 
@@ -200,3 +200,10 @@ Now, installing VSCode (Visual Studio Code).
 
 Soo many Terminal commands!!!!
 
+## Shell
+
+GUI (Graphic user interface) vs CLI (Command line interface)
+The first is user-friendly, but the second is better for more accurate things done in less time. The second is essential for working with lots and lots of files.
+It's really important, not much I have to say about it. It's a whole new language, and here's the tutorial (https://swcarpentry.github.io/shell-novice/01-intro.html)
+Using the terminal to do things is faster, more accurate, necessary to be a professional developer. 
+Some commands: whoami / ls (listing)  /  pwd (print working directory)
