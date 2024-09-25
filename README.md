@@ -207,3 +207,14 @@ The first is user-friendly, but the second is better for more accurate things do
 It's really important, not much I have to say about it. It's a whole new language, and here's the tutorial (https://swcarpentry.github.io/shell-novice/01-intro.html)
 Using the terminal to do things is faster, more accurate, necessary to be a professional developer. 
 Some commands: whoami / ls (listing)  /  pwd (print working directory)
+
+## Terminal Line Basics
+
+whoami --> prints the name of the user
+pwd --> prints the directory you're at 
+cd --> change directory either to a specific one or to the directory previous to the one which is in use
+ls --> listing (lists everything on the directory you're at)
+ls -F ---> lists everything separating directories and executable files
+/ --> directory
+@ --> link
+* --> executable file
