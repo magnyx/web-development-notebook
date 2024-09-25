@@ -205,7 +205,7 @@ Soo many Terminal commands!!!!
 GUI (Graphic user interface) vs CLI (Command line interface)
 The first is user-friendly, but the second is better for more accurate things done in less time. The second is essential for working with lots and lots of files.
 It's really important, not much I have to say about it. It's a whole new language, and here's the tutorial (https://swcarpentry.github.io/shell-novice/01-intro.html)
-Using the terminal to do things is faster, more accurate, necessary to be a professional developer. 
+Using the terminal to do things is faster, more accurate, and necessary to be a professional developer. 
 Some commands: whoami / ls (listing)  /  pwd (print working directory)
 
 ## Terminal Line Basics
