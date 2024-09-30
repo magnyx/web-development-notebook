@@ -210,11 +210,27 @@ Some commands: whoami / ls (listing)  /  pwd (print working directory)
 
 ## Terminal Line Basics
 
-whoami --> prints the name of the user
-pwd --> prints the directory you're at 
-cd --> change directory either to a specific one or to the directory previous to the one which is in use
-ls --> listing (lists everything on the directory you're at)
-ls -F ---> lists everything separating directories and executable files
-/ --> directory
-@ --> link
-* --> executable file
+  whoami --> prints the name of the user
+  pwd --> prints the directory you're at 
+  cd --> change directory either to a specific one or to the directory previous to the one which is in use
+  ls --> listing (lists everything on the directory you're at)
+  ls -F ---> lists everything separating directories and executable files
+  / --> directory
+  @ --> link
+  * --> executable file
+
+Variations of Control+:
+  Control-X
+  Control+X
+  Ctrl-X
+  Ctrl+X
+  ^X
+  C-x
+
+### Nano text editor
+Nano for Linux, or Emacs, Vim, Gedit and VScode. For Windows, Notepad++ or notepad.
+
+$ cd (intended directory)
+$ nano draft.txt
+
+Will create a txt draft file you can write on.
