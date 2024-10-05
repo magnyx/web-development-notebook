@@ -234,3 +234,40 @@ $ cd (intended directory)
 $ nano draft.txt
 
 Will create a txt draft file you can write on.
+
+## Web developing languages
+
+### HTML, CSS and Javascript
+HTML (Hypertext Markup Language) is the language that determines how documents and web pages are displayed in a web browser, the language for the building blocks of any website.
+Keywords: building blocks, structure, basics of a website
+
+CSS (Cascading Style Sheets) is a popular style sheet language that determines how a document created in HTML is styled (colors, font styles, layout and responsive features).
+Keywords: style, improve visuals
+
+JavaScript is a programming language that allows youto change CSS and HTML elements in the website after it's been already loaded. This fives you the ability to make the site more interactive and engaging for users with animations, embedded video media etc.
+Example: A website that comes with a menu button which reveals a small menu on the side if the page.
+Ex2: create a calculator for the website; create keyboard shortcuts the allow users to navigate to other pages; play animations when users scroll down pages.
+Keywords: alter the behavior, interactivity between HTML and CSS elements
+
+### Other languages
+The most common web development languages include HTML, CSS, JavaScript, PHP, Python, Ruby and SQL. Ruby and PHP are popular among startups and entrepreneurs, but HTML, CSS and Javascript are a good start and understand the basics of web design and development.
+Every language has a different purpose. Ruby is a scalable and fast programming language that can help you build an extensive website or program in just a short period of time. With Ruby on Rails framework, the language provides practically everything needed to build a website.
+For SQL, developers can maintain and optimize large database in a much more streamlined manner.
+The main language you use depends on the specific project and the business goals that you have.
+
+### Specifics
+For front-end elements, learn HTML5, CSS3, Bootstrap and JavaScript.
+For backend, learn languages like Python, Ruby, and PHP.
+
+## HTML
+
+HyperText Markup Language. Defines the structure and content of webpages.
+It is used to create paragraphs, headings, lists, iamges, and links.
+
+### Elements
+HTML is made mostly of pieces of content wrapped in opening and closing HTML tags.
+Opening tage tell the browser that this is the start of an HTML element. <>; <p>
+The actual content goes next.
+CLosing tags tell the browser where an elemnt ends. </>; </p>
+HTML elements sheet: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
