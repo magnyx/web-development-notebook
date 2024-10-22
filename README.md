@@ -1,7 +1,7 @@
 # Web Development-course-notebook
 Notes referring to the study of Computer Science, from TheOdinProject.
 
-  Notes from the Webdeveloper Foundations Course by The Odin Project (https://www.theodinproject.com/)
+  Notes from the Webdeveloper Foundations Course by [The Odin Project](https://www.theodinproject.com/)
 
 Foundations Course: 
 1- Internet, Computer basics
@@ -21,7 +21,7 @@ Full-stack developers are comfortable workinf with both the front and back ends.
 
 Tools to use regularly: Computer, Google, Text Editor, Command Line Interface (CLI), Stack Overflow, Git, GitHub
 
-Reading assignment: "Why Learning Code is so damn hard" (https://web.archive.org/web/20230630111131/https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/); Wikipedia's take on Web design (https://en.wikipedia.org/wiki/Web_design); and the blog post from Udacity on front-end, back-end and full stack developers (https://www.udacity.com/blog/2020/12/front-end-vs-back-end-vs-full-stack-web-developers.html).
+Reading assignment: ["Why Learning Code is so damn hard"](https://web.archive.org/web/20230630111131/https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/); [Wikipedia's take on Web design](https://en.wikipedia.org/wiki/Web_design); and the [blog post from Udacity on front-end, back-end and full stack developers](https://www.udacity.com/blog/2020/12/front-end-vs-back-end-vs-full-stack-web-developers.html).
 From these, the most important observations I've found were: 
  1. Learn the basic, and build. Once facing challenges upon, try to collab. Also, always learn from other people's codes on your own. Embrace challenges and don't give up.
  2. Creating a website involves: web designer, web development. But it can (and should) also involve a Graphic designer (logos, layouts, buttons), Internet marketing specialist, SEO writer, Internet copywriter, and User experience (UX) designer. These are all important in the making of an effective website!
@@ -32,12 +32,12 @@ Jobs for back-end developers often require experience with PHP frameworks like L
 3.2 Full stack developers are a jack-of-all-trades. The term was popularized by Facebook's engineering department. They're a full package.
 
 Reading suggestions I caught were:
-Hacker news (https://web.archive.org/web/20230630111115/https://news.ycombinator.com/)
-[Book] Homepage usability: 50 websites deconstructed (https://archive.org/details/homepageusabilit00jako_0/mode/2up). According to wikipedia, the authors of this book sustain that the homepage of a website is the most important page (2002). Other web developers contest, arguing that most people go straight to the page they intend to through searching engines. But the book looks really cool still!
-SMACSS (free version available): http://smacss.com/
-Bulletproof Web Design: http://www.simplebits.com/publications/bulletproof/
-A Book Apart Series: http://www.abookapart.com/
-O'Reilly books: http://oreilly.com/css-html/index.html
+[Hacker news](https://web.archive.org/web/20230630111115/https://news.ycombinator.com/)
+The book [Homepage usability: 50 websites deconstructed](https://archive.org/details/homepageusabilit00jako_0/mode/2up). According to wikipedia, the authors of this book sustain that the homepage of a website is the most important page (2002). Other web developers contest, arguing that most people go straight to the page they intend to through searching engines. But the book looks really cool still!
+[SMACSS](http://smacss.com/) (free version available): 
+[Bulletproof Web Design](http://www.simplebits.com/publications/bulletproof/)
+[A Book Apart Series](http://www.abookapart.com/)
+[O'Reilly books](http://oreilly.com/css-html/index.html)
 
 ## Learning to Learn
 The brain has two "core" modes: the focus mode and the relaxed mode. Navigate through "focus" and "relaxed" mode in a fluid way so you can learn!
@@ -122,7 +122,7 @@ Motherboard: it's the main circuit board. contains CPU (Central Processing Unit 
 Hard drive(long-term storage), many PCs use a magnetic platteer to store data but many newer users use a Solid-state drive (faster, more durable, but more expensive)
 On mini desktops computers, the motherboard has expansions slots that allow the PC to upgrade by adding expansion cards. You can addd a video card to get better graphics performance or you can add a wireless card to connect to your wireless home network. Most laptops don't have expansion slots.
 Power supply unit: responsible to connecting and directing the power to all o the PC's components and make sure it runs smoothly. Laptops also contain a built-in battery for that purpose.
-(Watch video to see the images of everything in https://www.youtube.com/watch?v=HB4I2CgkcCo)
+To see the images of everything, watch this [Youtube video](https://www.youtube.com/watch?v=HB4I2CgkcCo).
 
 Operating system
 It's the most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software and hardware. Allows you to communicate with the computer through translation of commands into machine language.
@@ -136,11 +136,11 @@ Applications, or Apps
 It's a software that isn't OS and that allows you to perform specific tasks.
 Some types of desktop applications: word processors, web browsers, media players, and games.
 
-Reference: Most notes came from the Goodwill Community Foundation (https://edu.gcfglobal.org)
+Reference: Most notes came from the [Goodwill Community Foundation](https://edu.gcfglobal.org)
 
 ## Internet
 
-The Internet is not a fuzzy cloud, it is a wire. Actually buried underground. It  can be accessed by cables, satelittes and wi-fi, but it is acutally a wire. (https://www.youtube.com/watch?v=7_LPdttKXPc)
+The Internet is not a fuzzy cloud, it is a wire. Actually buried underground. It  can be accessed by cables, satelittes and wi-fi, but it is acutally a wire. [Source](https://www.youtube.com/watch?v=7_LPdttKXPc)
 There are lots of servers connected to it, and each one has a unique internet protocol adress (IP).
 Your computer at home is not a server, because it is not connected directly to the Internet. Our computers are called client, because they are connecte dindirectdly to the Internet through a Internet Service Provider (ISP).
 
@@ -204,7 +204,7 @@ Soo many Terminal commands!!!!
 
 GUI (Graphic user interface) vs CLI (Command line interface)
 The first is user-friendly, but the second is better for more accurate things done in less time. The second is essential for working with lots and lots of files.
-It's really important, not much I have to say about it. It's a whole new language, and here's the tutorial (https://swcarpentry.github.io/shell-novice/01-intro.html)
+It's really important, not much I have to say about it. It's a whole new language, and here's the [tutorial](https://swcarpentry.github.io/shell-novice/01-intro.html)
 Using the terminal to do things is faster, more accurate, and necessary to be a professional developer. 
 Some commands: whoami / ls (listing)  /  pwd (print working directory)
 
@@ -269,5 +269,52 @@ HTML is made mostly of pieces of content wrapped in opening and closing HTML tag
 Opening tage tell the browser that this is the start of an HTML element. <>; <p>
 The actual content goes next.
 CLosing tags tell the browser where an elemnt ends. </>; </p>
-HTML elements sheet: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+[HTML elements sheet](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
+## CSS
+
+Cascading Style Sheets is a **styling language** that provides a nice and neat look to a website. It works well with HTML and Javascript, and has been used for many years now.
+
+It can be incorporated together with the HTML file, but usually there's a "styles.css" file dedicated to most if not all stylization. So, first things first, to try this out create a repository such as "git-test"; then use "touch index.html", write some code and save; and in the same file use "touch styles.css"; and finally add to index.html the text  < link rel="stylesheet" href="styles.css" >
+
+> git-test
+>> index.html
+>>>''' <*link rel="stylesheet" href="styles.css">
+---
+> git-test
+>> styles.css
+>>> [Start writing CSS here]
+
+### Basic syntax
+
+CSS is basically made up of various rules. These rules are made up of a selector and a semicolon-separated list of declarations, with each of those declarations made up of a property-value pair.
+
+>''' selector {\
+>'''  property: value;\
+>'''}
+
+>''' div {\
+>'''  color: blue;\
+>'''}
+
+#### Selectors:
+There are **Universal selectors**: they select everything.
+> *(Asteristic) {...}
+
+**Type selectors/Element selectors**: will select all elements of the given element type, and the syntax is just the name of the element.
+>''' div {...} \
+>''' p {...}
+
+**Class selectors**: will select all elements with the given class, which is just an attribute you place on the HTML element.
+> <*!-- index.html --> \
+>''' <*div class="alert-text"> ... <*/div> \
+> /* styles.css */ \
+>''' .alert-text {...} \
+
+You can add multiple classes to a single element as a space-separated list, such as class="alert-text severe-alert"
+
+**ID selectors**: will select an element with a given ID, which is another attribute you place on an HTML element. The difference between classes and IDs is that an element can only jave **one** ID. It cannot be repeated on a single page and shouldn't contain any whitespace.
+> <*!-- index.html --> \
+>''' <*div id="title">...<*/div> \
+> /* stylex.css */ \
+>''' #title {...}
