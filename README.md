@@ -318,3 +318,24 @@ You can add multiple classes to a single element as a space-separated list, such
 >''' <*div id="title">...<*/div> \
 > /* stylex.css */ \
 >''' #title {...}
+
+### Chaining and descendant combinators
+.class.second-class {}  >> Is a chaining effect
+.class .second-class {} >> Is a descendant comabinator
+
+### Cascade effect
+
+The Cascade is a hierarchy that determines which rules will actually get applied to our HTML. There are three elements that will help the determination:
+#### Specificity
+A CSS declaration that is more specific will take precedence over less specific ones
+1. Inline styles
+2. ID selectors
+3. Class selectors
+4. Type selectors
+It will only be taken into account when an element has multiple, conflicting declarations targeting it, sort of like a tie-breaker. When there is no declaration with a selctor of higher specificity, a rule with greater number of selectors of the same type will take precedence over another rule with fewer selectors of the same type.
+P.S.: *, +, -, >, <, ~, and empty spaces DO NOT interfere with the specificity rule.
+#### Inheritance
+Inheritance refers to the inheritance of features that are applied to some elements, even if we don't explicitly write a rule for those.
+Directly targeting an element always beats inheritance.
+#### Rule order
+The tie-breaker in a conflict of CSS rules, wins the one that was defined last.
